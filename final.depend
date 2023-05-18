@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1673306741 source:d:\proiect notepad\final\main.cpp
+	<iostream>
+	<graphics.h>
+	<conio.h>
+	<stdlib.h>
+	<fstream>
+	<time.h>
+
+1673307123 source:c:\users\salam\desktop\e1_editor text_costache rebeca_moloce alin\e1_editor text_costache rebeca_moloce alin\main.cpp
+	<iostream>
+	<graphics.h>
+	<conio.h>
+	<stdlib.h>
+	<fstream>
+	<time.h>
+
+1673442960 source:c:\users\salam\documents\proiect ip\e1_editor text_costache rebeca_moloce alin\e1_editor text_costache rebeca_moloce alin\main.cpp
+	<iostream>
+	<graphics.h>
+	<conio.h>
+	<stdlib.h>
+	<fstream>
+	<time.h>
+
